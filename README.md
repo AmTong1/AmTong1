@@ -23,9 +23,6 @@
 - 📖 [PHP Library](https://github.com/AmTong1/library-php/tree/main/ppp)  
   ไลบรารี PHP ที่เริ่มพัฒนาตั้งแต่ระดับ ปวช. เพื่อใช้ในระบบจัดการห้องสมุด
   
-## 📊 Github Stats
-![AmTong1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmTong1&show_icons=true&theme=tokyonight)
-
 ## 🛠️ Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
@@ -33,3 +30,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql)
+
+## 📊 Github Stats
+![AmTong1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmTong1&show_icons=true&theme=tokyonight)
