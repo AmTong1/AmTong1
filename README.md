@@ -30,6 +30,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql)
-
-## 📊 Github Stats
-![AmTong1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmTong1&show_icons=true&theme=tokyonight)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
