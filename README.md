@@ -5,7 +5,7 @@
 
 ## 🚀 Skills
 - HTML / CSS / JavaScript
-- Php
+- PHP
 - Node.js / Express
 - React
 - MySQL 
