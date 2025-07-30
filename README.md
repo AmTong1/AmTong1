@@ -10,9 +10,6 @@
 - React
 - MySQL 
 
-## 📊 Github Stats
-![AmTong1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmTong1&show_icons=true&theme=tokyonight)
-
 ## 🧠 กำลังศึกษาเพิ่มเติม:
 - Docker
 - React Native
@@ -25,6 +22,9 @@
   
 - 📖 [PHP Library](https://github.com/AmTong1/library-php/tree/main/ppp)  
   ไลบรารี PHP ที่เริ่มพัฒนาตั้งแต่ระดับ ปวช. เพื่อใช้ในระบบจัดการห้องสมุด
+  
+## 📊 Github Stats
+![AmTong1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmTong1&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
