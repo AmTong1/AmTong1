@@ -38,18 +38,19 @@
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-React_Native-brightgreen?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" width="50" height="50" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" width="50" height="50" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" width="50" height="50" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" width="50" height="50" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" width="50" height="50" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" width="50" height="50" />
+  <img src="https://img.shields.io/badge/-React_Native-brightgreen?style=flat&logo=react" width="50" height="50" />
   <img src="https://img.shields.io/badge/-Vite-915EFF?style=flat&logo=vite" width="50" height="50" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" width="50" height="50" />
+  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" width="50" height="50" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" width="50" height="50" />
 </p>
+
 
 
 ---
