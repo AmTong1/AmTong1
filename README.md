@@ -7,7 +7,7 @@
 
 ## 🚀 ทักษะด้านการพัฒนา (Skills)
 
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap  
+- **Frontend**: HTML, CSS, JavaScript, React+vite, Bootstrap , React Native 
 - **Backend**: PHP, Node.js (Express)  
 - **Database**: MySQL  
 - **Version Control**: Git
