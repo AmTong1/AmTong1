@@ -37,16 +37,17 @@
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" height="40" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" height="40" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" height="40" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" height="40" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" height="40" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" height="40" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" height="40" />
+  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" height="40" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" height="40" />
 </p>
+
 
 ---
 
