@@ -37,6 +37,7 @@
 
 ## 🛠️ Skills & Technologies
 
+ <p align="left">
  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" />
@@ -48,7 +49,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
   <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
-
+</p>
 
 ---
 
