@@ -37,19 +37,17 @@
 
 ## 🛠️ Skills & Technologies
 
-<p align="left" style="font-size: 0;">
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" style="width:150px; height:50px;" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" style="width:150px; height:50px;" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-React_Native-brightgreen?style=flat&logo=react" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-Vite-915EFF?style=flat&logo=vite" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" style="width:50px; height:50px;" />
-</p>
+ <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-React_Native-brightgreen?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Vite-915EFF?style=flat&logo=vite" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
 
 
 ---
