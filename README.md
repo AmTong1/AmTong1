@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" />
   <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-React_Native-brightgreen?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-Vite-brightgreen?style=flat&logo=vite" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
   <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" />
