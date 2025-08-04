@@ -38,8 +38,8 @@
 ## 🛠️ Skills & Technologies
 
 <p align="left" style="font-size: 0;">
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" style="width:50px; height:50px;" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" style="width:50px; height:50px;" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" style="width:150px; height:50px;" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" style="width:150px; height:50px;" />
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" style="width:50px; height:50px;" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" style="width:50px; height:50px;" />
   <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" style="width:50px; height:50px;" />
