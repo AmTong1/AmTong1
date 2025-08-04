@@ -36,15 +36,17 @@
 
 ## 🛠️ Skills & Technologies
 
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
+</p>
 
 ---
 
