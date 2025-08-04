@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills & Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
