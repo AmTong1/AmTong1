@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 ทักษะด้านการพัฒนา (Skills)
-
+- **Programming Languages**: Java
 - **Frontend**: HTML, CSS, JavaScript, React + Vite, Bootstrap, React Native
 - **Backend**: PHP, Node.js (Express)  
 - **Database**: MySQL  
