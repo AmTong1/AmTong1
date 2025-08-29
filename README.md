@@ -14,12 +14,6 @@
 
 ---
 
-## 📚 กำลังศึกษาเพิ่มเติม (Currently Learning)
-
-- Docker  
-- TypeScript
-
----
 
 ## 📦 ผลงาน (Projects)
 
