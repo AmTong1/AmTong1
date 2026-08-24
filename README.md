@@ -1,49 +1,47 @@
-# 👋 สวัสดีครับ ผมชื่อ **ธนัชพล ติ๊บศูนย์** (Tanutchapol Tipsoon)
+## 🚀 ทักษะและความเชี่ยวชาญ (Tech Stack & Skills)
 
-🎓 นักศึกษาสาขาวิศวกรรมคอมพิวเตอร์  
-📧 อีเมลติดต่อ: [tongtanutchapol@gmail.com](mailto:tongtanutchapol@gmail.com)
-
----
-
-## 🚀 ทักษะด้านการพัฒนา (Skills)
-- **Programming Languages**: Java
-- **Frontend**: HTML, CSS, JavaScript, React + Vite, Bootstrap, React Native
-- **Backend**: PHP, Node.js (Express)  
-- **Database**: MySQL  
-- **Version Control**: Git
+- **Frontend Development:** React.js, React Native, JavaScript, HTML5, CSS3, Bootstrap, Vite
+- **Backend Development:** Node.js (Express), PHP, Java
+- **Database Management:** MySQL
+- **Tools & Others:** Git, RESTful APIs, Socket.IO, JWT Authentication
 
 ---
 
+## 💻 ผลงานที่โดดเด่น (Featured Projects)
 
-## 📦 ผลงาน (Projects)
+### 🏘️ [NitiSmart - ระบบบริหารจัดการนิติบุคคล](https://github.com/AmTong1/NitiApp)  
+แอปพลิเคชันมือถือและระบบจัดการแบบครบวงจรสำหรับหมู่บ้านจัดสรร มีระบบ Authentication, Real-time Chat และระบบชำระเงิน
+- **ฟีเจอร์เด่น:** สร้าง QR Code PromptPay, ระบบตรวจสลิปโอนเงินอัตโนมัติ (SlipOK/Slip2Go), ระบบแจ้งซ่อม, และแชทเรียลไทม์ผ่าน Socket.IO 
+- **เทคโนโลยี:** React Native, Node.js (Express), MySQL, Socket.IO, JWT
 
 ### 🏥 [Mini Pharmacy System](https://github.com/AmTong1/MiniPharmacy)  
-ระบบบริหารจัดการร้านขายยา พัฒนาเป็นมินิโปรเจกต์เพื่อฝึกทักษะการพัฒนาเว็บแอปพลิเคชันแบบ Full-stack  
-**เทคโนโลยีที่ใช้:** React + Vite, Node.js, MySQL
+ระบบบริหารจัดการคลังสินค้าและหน้าร้านสำหรับร้านขายยา พัฒนาเป็น Web Application แบบ Full-stack
+- **ฟีเจอร์เด่น:** จัดการข้อมูลยา, เช็คสต็อกสินค้า, และระบบตะกร้าสินค้า
+- **เทคโนโลยี:** React + Vite, Node.js (Express), MySQL
 
-### 📖 [PHP Library](https://github.com/AmTong1/library-php/tree/main/ppp)  
-ระบบจัดการห้องสมุด พัฒนาโดยใช้ภาษา PHP ตั้งแต่ระดับ ปวช.  
-เทคโนโลยี: PHP, MySQL
+### 📖 [Library Management System](https://github.com/AmTong1/library-php/tree/main/ppp)  
+ระบบจัดการห้องสมุดขั้นพื้นฐาน (โปรเจกต์สมัย ปวช.) เพื่อศึกษาพื้นฐานการทำ CRUD และระบบจัดการฐานข้อมูล
+- **เทคโนโลยี:** PHP, MySQL, HTML/CSS
 
 ---
 
+## 🛠️ เครื่องมือและเทคโนโลยี (Languages & Tools)
 
-## 🛠️ Skills & Technologies
-
- <p align="left">
- <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php" />
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-React_Native-brightgreen?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Vite-915EFF?style=flat&logo=vite" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
-
-> 🙌 ยินดีที่ได้รู้จักครับ และขอบคุณที่แวะมาชมโปรไฟล์ของผม!
