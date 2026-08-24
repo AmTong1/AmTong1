@@ -11,7 +11,7 @@
 
 ### 🤖 [AI Admin Backend](https://github.com/AmTong1/Backend-AI-Admin)  
 ระบบ Backend สำหรับบริหารจัดการเนื้อหาและโซเชียลมีเดียอัตโนมัติด้วย AI
-- **ฟีเจอร์เด่น:** ผสานการทำงานกับ Groq AI และ Gemini AI, ระบบโพสต์และจัดการอัลบั้มลง Facebook Page, ซิงค์ข้อมูลกับ Google Sheets, และระบบตั้งเวลาทำงานอัตโนมัติ (Scheduler)
+- **ฟีเจอร์เด่น:** ผสานการทำงานกับ Groq AI และ Gemini AI, ระบบโพสต์และจัดการอัลบั้มลง Facebook Page, และระบบตั้งเวลาทำงานอัตโนมัติ (Scheduler)
 - **เทคโนโลยี:** Node.js (Express), PostgreSQL, RESTful APIs, Facebook Graph API
 
 ### 🏘️ [NitiSmart - ระบบบริหารจัดการนิติบุคคล](https://github.com/AmTong1/NitiApp)  
