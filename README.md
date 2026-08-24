@@ -3,7 +3,7 @@
 - **Frontend Development:** React.js, React Native, JavaScript, HTML5, CSS3, Bootstrap, Vite
 - **Backend Development:** Node.js (Express), PHP, Java
 - **Database Management:** MySQL
-- **Tools & Others:** Git, RESTful APIs, Socket.IO, JWT Authentication
+- **Tools & Others:** Git, RESTful APIs, Socket.IO, JWT Authentication, Docker
 
 ---
 
